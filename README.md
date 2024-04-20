@@ -1,8 +1,8 @@
 # docker_wordpress_training
 Using Docker in WordPress development and training
 
-### Запустить
+### Start
 $ docker-compose up -d
 
-### Снести
+### Down
 $ docker-compose down --volumes
